@@ -1,0 +1,4 @@
+github.com/h2non/filetype v1.1.1 h1:xvOwnXKAckvtLWsN398qS9QhlxlnVXBjXBydK2/UFB4=
+github.com/h2non/filetype v1.1.1/go.mod h1:319b3zT68BvV+WRj7cwy856M2ehB3HqNOt6sy1HndBY=
+github.com/mozilla/masche v0.0.0-20190205203008-6ea1dcd32e47 h1:4GVkpzNlNLKN6RwalGBcl6e/4owuYUtNatqdvqQBHV0=
+github.com/mozilla/masche v0.0.0-20190205203008-6ea1dcd32e47/go.mod h1:Oug510CaIQxBiz4mx7cyf5zyLWiO0tCrBzMTutvQH3w=
